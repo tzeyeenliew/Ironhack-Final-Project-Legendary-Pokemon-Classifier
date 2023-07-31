@@ -50,7 +50,6 @@
 <h2>Future Improvements</h2>
 <p>Here are some potential future improvements for my project:</p>
 <ul>
-  <li>Experiment with more advanced classification models, such as Random Forest or Gradient Boosting, to further enhance prediction accuracy.</li>
   <li>Perform more in-depth feature engineering, considering additional Pokemon attributes or external datasets (such as 8th generation Pokemon) to capture more information.</li>
   <li>Explore more advanced techniques for handling class imbalance, such as ensemble methods.</li>
   <li>Conduct a thorough error analysis to identify misclassifications and improve the model's performance -- for example, optimizing the GaussianNB model.</li>
