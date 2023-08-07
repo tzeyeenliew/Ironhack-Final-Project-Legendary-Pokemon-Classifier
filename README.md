@@ -16,7 +16,7 @@
 <p>This project aims to build a machine learning model to predict whether a Pokemon is legendary or not based on various features. The dataset used for this project contains information about different Pokemon, such as their base stats, abilities, and more. The goal is to develop an accurate and reliable classifier that can distinguish legendary from non-legendary Pokemon.</p>
 
 <h2>2. Getting the Data</h2>
-<p>The first step involves obtaining the dataset, which includes information about Pokemon characteristics and a binary indicator for whether a Pokemon is legendary. The data is loaded using pandas and inspected to understand its structure and content.</p>
+<p>The first step involves obtaining the [dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon/discussion?resource=download), which includes information about Pokemon characteristics and a binary indicator for whether a Pokemon is legendary. The data is loaded using pandas and inspected to understand its structure and content.</p>
 
 <h2>3. Setting the Scene: Preliminary Exploration</h2>
 <p>In this section, we perform preliminary exploration to gain insights into the dataset. We use techniques like Isolation Forest and Hypothesis Testing to identify potential outliers and correlations between features. This step helps us understand the data better before proceeding with the modeling process.</p>
